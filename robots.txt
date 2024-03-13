@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gyou.github.io/sitemap.xml
+Sitemap: https://Gyou.github.io/sitemap.xml
