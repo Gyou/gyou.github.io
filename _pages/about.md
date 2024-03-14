@@ -14,6 +14,7 @@ profile:
     <p>Richardson, TX 75080</p>
 
 news: true # includes a list of news items
+posts: false 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
