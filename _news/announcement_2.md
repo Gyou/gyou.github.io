@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new work accepted by IEEE TCSS.
+title: A new work is accepted by IEEE TCSS.
 date: 2024-01-25 
 inline: false
 related_posts: false
