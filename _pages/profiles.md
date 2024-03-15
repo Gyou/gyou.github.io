@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
-description: Distributed Data Management and Mining (D2M2) Lab 
+title: Distributed Data Management and Mining (D2M2) Lab 
+description: Lab People
 nav: true
 nav_order: 7
 
