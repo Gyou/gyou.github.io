@@ -77,6 +77,31 @@
       "date": "2023-04-10",
       "awarder": "UT Dallas",
       "url": "https://engineering.utdallas.edu/academics/graduate-education/graduate-funding-opportunities/jan-p-van-der-ziel-engineering-fellowship/"
+    },
+    {
+      "title": "Best Community Impact Award",
+      "date": "2023-08",
+      "awarder": "CAST/UTD STEM Summer Camp"
+    },
+    {
+      "title": "Best Thesis Award",
+      "date": "2019-06-24",
+      "awarder": "Dalian University of Technology"
+    },
+    {
+      "title": "National Inspiration Scholarship",
+      "date": "2015-11-20",
+      "awarder": "Dalian University of Technology"
+    },
+    {
+      "title": "Excellent Graduate Student",
+      "date": "2017-12-30",
+      "awarder": "Dalian University of Technology"
+    },
+    {
+      "title": "Excellent Academic Scholarship (Second Prize)",
+      "date": "2015-10-08",
+      "awarder": "Dalian University of Technology"
     }
   ],
   "interests": [
@@ -86,7 +111,8 @@
       "keywords": [
         "Cryptocurrency",
         "Consensus Mechanism",
-        "Blockchain Applications"
+        "Blockchain Applications",
+        "Internet of Things"
       ]
     },
     {
