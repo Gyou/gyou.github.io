@@ -20,4 +20,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm currently a Ph.D. Candidate in Computer Science at The University of Texas at Dallas. My research focuses on blockchain technology and its applications in distributed systems, e.g. Edge Computing, Internet of Things, Distributed Machine Learning. I'm also interested in applied data science for problem-solving with the application of machine learning, deep learning and reinforcement Learning.
+
 I will begin my role as an Assistant Professor this Fall Quarter in Computer Science and Engineering Department at <a href="https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/">Santa Clara University</a>. **I am looking for multiple self-motivated PhD students who are interested in blockchain technology or edge computing and have necessary knowledge in machine learning or data science.** If you are interested in joining us, please send your resume to xiao.li@utdallas.edu. :grinning: 
