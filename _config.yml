@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xiao
-middle_name: R.
+middle_name:
 last_name: Li
 email: Xiao.Li@utdallas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -28,7 +28,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: shadow_red # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: shadow_blue # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: calm # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
