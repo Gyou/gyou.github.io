@@ -1,33 +1,14 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: A new work is accepted by IEEE TCSS.
+date: 2024-01-25 
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our work on Blockchain-driven contact tracing is accepted by <a href="https://doi.org/10.1109/TCSS.2024.3351191">IEEE TCSS</a>.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Blockchain technology, recognized for its decentralized and privacy-preserving capabilities, holds potential for enhancing privacy in contact tracing applications. Existing blockchain-based contact tracing frameworks often overlook one or more critical design details, such as the blockchain data structure, a decentralized and lightweight consensus mechanism with integrated tracing data verification, and an incentive mechanism to encourage voluntary participation in bearing blockchain costs. Moreover, the absence of framework simulations raises questions about the efficacy of these existing models. To solve above issues, this article introduces a fully third-party independent blockchain-driven contact tracing (BDCT) framework, detailed in its design. The BDCT framework features an Rivest-Shamir-Adleman (RSA) encryption-based transaction verification method (RSA-TVM), achieving over 96% accuracy in contact case recording, even with a 60% probability of individuals failing to verify contact information. Furthermore, we propose a lightweight reputation corrected delegated proof of stake (RC-DPoS) consensus mechanism, coupled with an incentive model, to ensure timely reporting of contact cases while maintaining blockchain decentralization. Additionally, a novel simulation environment for contact tracing is developed, accounting for three distinct contact scenarios with varied population density. Our results and discussions validate the effectiveness, robustness of the RSA-TVM and RC-DPoS, and the low storage demand of the BDCT framework.
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

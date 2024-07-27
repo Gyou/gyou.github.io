@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cs.utdallas.edu/'>The University of Texas at Dallas</a>. Department of Computer Science.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ECSS 3.614</p>
+    <p>800 W Campbell Rd.</p>
+    <p>Richardson, TX 75080</p>
 
 news: true # includes a list of news items
+posts: false 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I will begin my role as an Assistant Professor this Fall in Computer Science and Engineering Department at <a href="https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/">Santa Clara University</a>. My research focuses on blockchain technology and its applications in distributed systems, e.g. Edge Computing, Internet of Things, Distributed Machine Learning. I'm also interested in applied data science for problem-solving with the application of machine learning, deep learning and reinforcement Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I am looking for multiple self-motivated PhD students who are interested in blockchain technology or edge computing and have necessary knowledge in machine learning or data science.** If you are interested in joining us, please send your resume to xiao.li@utdallas.edu. :grinning: 
