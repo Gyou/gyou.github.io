@@ -16,8 +16,8 @@ M/W, 7:10pm-9:00pm, KENNA 105, In-person.
 | Week | Mon | Wed | Notes |
 |--------|------- |--------|-------|
 | Week1 (09/23-09/27)   | Lec 1: [Syllabus](./CSEN317%20Fall2024/CSEN%20317.pdf) and Introduction | Lec 2: Introduction to Distributed System |  |
-| Week2 (09/30-10/04)   | Lec 3: System Model              | Lec 4: Processes and Threads              | HW1 Due |
-| Week3 (10/07-10/11)   | Lec 5: Network Basics and Inter-Process Communications  | Lec 6: RPC and Indirect Communications      |  |
+| Week2 (09/30-10/04)   | Lec 3: System Model              | Lec 4: Processes and Inter-Process Communication(1)            | HW1 Due |
+| Week3 (10/07-10/11)   | Lec 5: Processes and Inter-Process Communication(2)  | Lec 6: RPC and Indirect Communications      |  |
 | Week4 (10/14-10/18)   | No Lecture                       | Lec 7: P2P System                         | HW2 Due |
 | Week5 (10/21-10/25)   | Lec 8: Security                  | Lec 9: Distributed File System            |  |
 | Week6 (10/28-11/01)   | Mid-term Exam                    | Lec 10: Time and Global States            | HW3 Due |
