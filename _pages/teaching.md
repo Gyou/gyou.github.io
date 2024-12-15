@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+
+### <span style="color:#a4233b">Winter 2025:</span>
+#### CSEN 317 Distributed Systems
+M/W, 5:25pm-7:15pm, Bergin 114, In-person. 
+
+
+
+
 ### <span style="color:#a4233b">Fall 2024:</span>
 #### CSEN 317 Distributed Systems
 M/W, 7:10pm-9:00pm, KENNA 105, In-person. 
