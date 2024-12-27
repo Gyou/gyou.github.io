@@ -12,6 +12,21 @@ nav_order: 6
 #### CSEN 317 Distributed Systems
 M/W, 5:25pm-7:15pm, Bergin 114, In-person. 
 
+**Tentative Schedule**:
+
+| Week | Mon | Wed | Notes |
+|--------|------- |--------|-------|
+| Week1 (01/06-01/10)   | Lec 1: Syllabus and Introduction | Lec 2: Introduction to Distributed System |  |
+| Week2 (01/13-01/17)   | Lec 3: System Model              | Lec 4: Processes and Inter-Process Communication(1)            | HW1 Due |
+| Week3 (01/20-01/24)   | No Lecture   |  Lec 5: Processes and Inter-Process Communication(2)     |  |
+| Week4 (01/27-01/31)   | Lec 6: RPC and Indirect Communications   | Lec 7: Security  &  Lec 8: P2P System   | HW2 Due |
+| Week5 (02/03-02/07)   | Lec 9: Distributed File System & Mid-term Review           |   Mid-term Exam         |   |
+| Week6 (02/10-02/14)   |  Lec 10: Time and Global States  |  Lec 11: Coordination and Agreement       | |
+| Week7 (02/17-02/21)   | No Lecture      | Lec 12: Transaction and Concurrency Control(1) | HW3 Due |
+| Week8 (02/24-02/28)   | Lec 13: Transaction and Concurrency Control(2)   | Lec 14: Replication and Consistency |  |
+| Week9 (03/03-03/07)   | Lec 15: Fault Tolerance and Raft                 | Lec 16: Naming & Final Review| HW4 Due  |
+| Week10 (03/10-03/14)  | Lec 17: Advanced Topics | Final Exam | Project Due |
+
 
 
 
@@ -19,7 +34,7 @@ M/W, 5:25pm-7:15pm, Bergin 114, In-person.
 #### CSEN 317 Distributed Systems
 M/W, 7:10pm-9:00pm, KENNA 105, In-person. 
 
-**Tentative Schedule**:
+<!-- **Tentative Schedule**:
 
 | Week | Mon | Wed | Notes |
 |--------|------- |--------|-------|
@@ -36,4 +51,4 @@ M/W, 7:10pm-9:00pm, KENNA 105, In-person.
 | Week11 (12/02-12/06)  | Lec 17: Case Studies and Advanced Topics | Final Exam |  |
 
 
-Optional Course Project: For extra work/credits. Please discuss with instructor
+Optional Course Project: For extra work/credits. Please discuss with instructor -->
