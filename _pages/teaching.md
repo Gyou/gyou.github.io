@@ -20,9 +20,9 @@ M/W, 5:25pm-7:15pm, Bergin 114, In-person.
 | Week2 (01/13-01/17)   | Lec 3: System Model              | Lec 4: Processes and Inter-Process Communication(1)            | HW1 Due |
 | Week3 (01/20-01/24)   | No Lecture   |  Lec 5: Processes and Inter-Process Communication(2)     |  |
 | Week4 (01/27-01/31)   | Lec 6: RPC and Indirect Communications   | Lec 7: Security  &  Lec 8: P2P System   | HW2 Due |
-| Week5 (02/03-02/07)   | Lec 9: Distributed File System & Mid-term Review           |   Mid-term Exam         |   |
-| Week6 (02/10-02/14)   |  Lec 10: Time and Global States  |  Lec 11: Coordination and Agreement       | |
-| Week7 (02/17-02/21)   | No Lecture      | Lec 12: Transaction and Concurrency Control(1) | HW3 Due |
+| Week5 (02/03-02/07)   | Lec 8: P2P System & Mid-term Review           |   Mid-term Exam         |   |
+| Week6 (02/10-02/14)   | Lec 9: Distributed File System   |   Lec 10: Time and Global States     | |
+| Week7 (02/17-02/21)   | Lec 11: Coordination and Agreement       | Lec 12: Transaction and Concurrency Control(1) | HW3 Due |
 | Week8 (02/24-02/28)   | Lec 13: Transaction and Concurrency Control(2)   | Lec 14: Replication and Consistency |  |
 | Week9 (03/03-03/07)   | Lec 15: Fault Tolerance and Raft                 | Lec 16: Naming & Final Review| HW4 Due  |
 | Week10 (03/10-03/14)  | Lec 17: Advanced Topics | Final Exam | Project Due |
