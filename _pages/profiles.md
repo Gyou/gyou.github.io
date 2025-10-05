@@ -27,5 +27,9 @@ profiles:
     image: Kieran.jpg
     content: about_kieran.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: shuze.jpg
+    content: about_shuze.md
+    image_circular: true # crops the image to make it circular
 
 ---
