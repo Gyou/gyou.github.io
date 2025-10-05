@@ -24,7 +24,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: right
-    image: kieran.jpg
+    image: Kieran.jpg
     content: about_kieran.md
     image_circular: true # crops the image to make it circular
 
