@@ -18,4 +18,14 @@ profiles:
       # <p>123 your address street</p>
       # <p>Your City, State 12345</p>
 
+  - align: left
+    image: Zhisheng.jpg
+    content: about_zhisheng.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: kieran.jpg
+    content: about_kieran.md
+    image_circular: true # crops the image to make it circular
+
 ---

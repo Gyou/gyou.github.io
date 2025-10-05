@@ -7,12 +7,20 @@ nav: true
 nav_order: 6
 ---
 
+### <span style="color:#a4233b">Fall 2025:</span>
+#### CSEN 174 Software Engineering (Section I and II)
+Tu/Thu, In-person. See Camino for course information. 
+
+### <span style="color:#a4233b">Spring 2025:</span>
+#### CSEN 174 Software Engineering (Section I and II)
+Tu/Thu, In-person. See Camino for course information.
+
 
 ### <span style="color:#a4233b">Winter 2025:</span>
 #### CSEN 317 Distributed Systems
 M/W, 5:25pm-7:15pm, Bergin 114, In-person. 
 
-**Tentative Schedule**:
+<!-- **Tentative Schedule**:
 
 | Week | Mon | Wed | Notes |
 |--------|------- |--------|-------|
@@ -26,7 +34,7 @@ M/W, 5:25pm-7:15pm, Bergin 114, In-person.
 | Week8 (02/24-02/28)   | Lec 13: Transaction and Concurrency Control(2)   | Lec 14: Replication and Consistency |  |
 | Week9 (03/03-03/07)   | Lec 15: Fault Tolerance and Raft                 | Lec 16: Naming & Final Review| HW4 Due  |
 | Week10 (03/10-03/14)  | Lec 17: Advanced Topics | Final Exam | Project Due |
-
+ -->
 
 
 

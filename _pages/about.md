@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office: Bergin 206 </p>
-    <p>Office Hour: Mon/Wed 4pm-5pm (Winter 2025)</p>
+    <p>Office Hour: Tu/Thur 1:30pm-2:30pm (Fall 2025)</p>
     <p>Email: xli18@scu.edu</p>
 
 news: true # includes a list of news items
